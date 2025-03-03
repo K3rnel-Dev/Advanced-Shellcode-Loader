@@ -1,5 +1,5 @@
 # ⚔️ <b>Shellcode Loader 1.0</b>
->![CSHARP](https://img.shields.io/badge/Language-CSHARP-purple?style=for-the-badge&logo=csharp) 
+>![CSHARP](https://img.shields.io/badge/Language-CSHARP-purple?style=for-the-badge&logo=csharp) <img src="https://img.shields.io/github/v/release/K3rnel-Dev/Advanced-Shellcode-Loader?style=for-the-badge&color=cyan"> <img src="https://img.shields.io/github/downloads/K3rnel-Dev/Advanced-Shellcode-Loader/total?style=for-the-badge&color=pink"> <img src="https://img.shields.io/github/license/K3rnel-Dev/Advanced-Shellcode-Loader?style=for-the-badge&color=red"></img> 
 >![Banner](banner.png)
 
 ### > **[⬇️ Download for Windows](https://github.com/K3rnel-Dev/Advanced-Shellcode-Loader/releases/download/Build/Binaries.zip)**  
